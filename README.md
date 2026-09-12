@@ -68,18 +68,18 @@ npm install
 For Software:
 
 # Screenshots 
-![Screenshot1](landingpage.png)
+[Screenshot1](src/landingpage.png)
 Landing page introducing Kanjiyum Kariyum with the Baby Chef, nostalgic Kerala background and project theme.
 
-![Screenshot2](homepage.png)
+[Screenshot2](homepage.png)
 Home page showing the main navigation, search bar, Baby Chef, featured recipe and quick-access sections.
 
-![Screenshot3](recipepage.png)
+[Screenshot3](recipepage.png)
 Recipes page displaying the collection of imaginary childhood recipes with recipe cards, cooking time and difficulty.
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+[Workflow](workflow.jpeg)
+The system uses a React.js frontend for user interaction, with Local Storage for saving favourites, preferences, and custom recipes. React Router, JavaScript, HTML, and CSS support the application's navigation, logic, structure, and design.
 
 For Hardware:
 
