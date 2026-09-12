@@ -2,45 +2,67 @@
 
 
 
-# [Project Name] 🎯
+# Kanjiyum kariyum 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Tedhe medhe
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Ganga V-SJCET
+- Member 2: Aishwarya Pramod Nair-SJCET
 
 ### Project Description
-[2-3 lines about what your project does]
+Kanjiyum Kariyum is a nostalgic digital recipe book inspired by the imaginary cooking games played by children in 90s Kerala. It transforms simple natural objects like stones, leaves, flowers, mud and grass into fun imaginary recipes.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Children today are facing a serious problem — they don't know how to make biriyani using stones, curry using leaves, or payasam using mud. Our project solves this completely unnecessary problem by bringing back the forgotten art of childhood pretend cooking.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
-
+We created a digital recipe book where users can explore hilarious imaginary recipes such as Kallu Chor, Kallu Biriyani, Manchatti Payasam, Manal Dosa, Chiratta Sambar and Mannappam. Users can browse recipes, explore pretend ingredients, create their own recipes, save favourites and enjoy a nostalgic childhood experience through the Baby Chef.
 ## Technical Details
-### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+### Technologies/Components Used
+
+#### For Software:
+- *Languages used*: TypeScript, JavaScript (ES2024), HTML5, CSS3
+- *Frameworks used*: React 19, TanStack Start (SSR Framework), Vite 8
+- *Libraries used*:
+  - @tanstack/react-router (File-based Routing & State Management)
+  - @tanstack/react-query (Data fetching & state caching)
+  - @tailwindcss/vite & tailwindcss v4 (Utility-first styling & design system)
+  - @radix-ui/* (Accessible UI primitives)
+  - lucide-react (Vector icons)
+  - Web Audio API (Procedural ambient sound synthesis)
+  - zod, date-fns, clsx, tailwind-merge
+- *Tools used*:
+  - Node.js / Bun (Package Management & Runtime)
+  - Vite (Dev Server & Build Tool)
+  - ESLint, Prettier (Code Formatting & Quality)
+  - Git & GitHub (Version Control)
+
+#### For Hardware:
+- *Main components: N/A *(Pure Software Web Application)
+- *Specifications*: Any desktop computer, laptop, tablet, or smartphone capable of running a modern HTML5 web browser (Chrome, Firefox, Safari, Edge)
+- *Tools required*: Keyboard/Mouse or Touchscreen, Audio Output (Speakers or Headphones for the ambient Adukkala Soundboard experience)
+
+---
 
 ### Implementation
-For Software:
-# Installation
-[commands]
 
+#### For Software:
+
+# Installation
+```bash
+# 1. Clone the repository
+git clone https://github.com/ganga8089/useless_project_temp.git
+
+# 2. Navigate to project directory
+cd useless_project_temp
+
+# 3. Install project dependencies
+npm install
 # Run
 [commands]
 
