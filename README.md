@@ -63,21 +63,19 @@ cd useless_project_temp
 
 # 3. Install project dependencies
 npm install
-# Run
-[commands]
 
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+# Screenshots 
+![Screenshot1](landingpage.png)
+Landing page introducing Kanjiyum Kariyum with the Baby Chef, nostalgic Kerala background and project theme.
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2](homepage.png)
+Home page showing the main navigation, search bar, Baby Chef, featured recipe and quick-access sections.
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3](recipepage.png)
+Recipes page displaying the collection of imaginary childhood recipes with recipe cards, cooking time and difficulty.
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
